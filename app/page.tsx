@@ -87,6 +87,7 @@ export default function Home() {
     src="/image/freediving_1.jpg"
     alt="프리다이빙"
     fill
+    unoptimized
     className="object-cover"
   />
 </div>
